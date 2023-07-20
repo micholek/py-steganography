@@ -1,4 +1,7 @@
 *
 !.gitignore
+!__init__.py
 !main.py
 !msg_img.py
+!test
+!test/*
